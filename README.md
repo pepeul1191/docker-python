@@ -7,6 +7,9 @@ Requisitos de software previamente instalado:
 
 ### Descipción
 
+Ejecutar docker:
+
+    $ docker build -t <tag_name> .
 
 
 ---
